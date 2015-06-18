@@ -1,7 +1,7 @@
 ## TranslationCollectionView 机智的新手
 简单的横向滑动动画效果
 
-##效果图
+##效果图--->gif效果不是很好，慢不下来。自己下载体验一番
 ![<Display Name>](https://github.com/zhiwupei/TranslationCollectionView/blob/master/image.gif?raw=true)
 
 ##License
