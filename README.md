@@ -1,4 +1,4 @@
-## TranslationCollectionView 机智的新手
+## TranslationCollectionView Will
 简单的横向滑动动画效果
 
 ##效果图--->gif效果不是很好，慢不下来。自己下载体验一番
